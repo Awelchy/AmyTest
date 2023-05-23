@@ -1,0 +1,18 @@
+/store/order
+{
+  "id": 0,
+  "petId": 0,
+  "quantity": 0,
+  "shipDate": "2023-05-23T20:54:21.334Z",
+  "status": "placed",
+  "complete": true
+}
+
+{
+  "id": 0,
+  "petId": 0,
+  "quantity": 0,
+  "shipDate": "2023-05-23T20:54:21.352Z",
+  "status": "placed",
+  "complete": true
+}
